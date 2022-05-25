@@ -2,7 +2,7 @@
 TextUtils is a simple web app to format text. A good start to understand functional based components , 
 states , props and React routers in React JS.
 
-This u=is the start of my React learning
+This is the start of my React learning
 
 ## To view the project simply 
 
